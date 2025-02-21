@@ -3,6 +3,10 @@
 A comprehensive job portal application built using the MERN (MongoDB, Express.js, React.js, Node.js) stack. This application allows users to browse job listings, apply for jobs, and manage their applications seamlessly.
 ## PPT LINK
 - https://github.com/ShivamKumar2883/NaukriUp/blob/main/Job-Portal-App-MERN-Stack-for-Decent-Work.pptx
+
+## VIDEO LINK
+- https://drive.google.com/file/d/1Mo1Si-B0jmWhZ7yQe-rI7E3OiIGsJNF-/view?usp=sharing
+
 ## Features
 
 - **User Authentication:** Secure authentication using JWT (JSON Web Tokens) for both job seekers and employers.
