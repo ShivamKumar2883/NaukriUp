@@ -97,12 +97,11 @@ credit scoring system that enables people
 microloans using digital footprints like mobile
 transactions.
 
-# Job pr. with 
-
-# for Economic Growth:
+# Job pr. with for Economic Growth:
 # Using AI for 
 using CV to show unknown skills,
-rating skills as gamefications features for typed role,
+improving CV by removing Typo errors and Grammer mistakes,
+rating skills as gamefications features for typed role.
 
 
 user type: 
