@@ -1,4 +1,4 @@
-# Job Portal App with MERN Stack
+# NaukriUp - USING AI TO MAKE YOU JOB READY
 
 A comprehensive job portal application built using the MERN (MongoDB, Express.js, React.js, Node.js) stack. This application allows users to browse job listings, apply for jobs, and manage their applications seamlessly.
 ## PPT LINK
